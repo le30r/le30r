@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ivan @le30r Marinin
-- 👀 I’m interested in Java Development, Game Development
+- 👀 I’m interested in Java Development, C# Game Development
 - 📫 You can write me in Telegram: @le30r
 
 <!---
